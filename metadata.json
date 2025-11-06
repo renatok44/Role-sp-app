@@ -1,0 +1,7 @@
+{
+  "name": "Roles SP",
+  "description": "An application to find personally recommended bars and venues in São Paulo, searchable by neighborhood and features. Users can favorite spots, and an administrator can manage the list.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
